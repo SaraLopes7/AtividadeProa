@@ -14,6 +14,6 @@ https://github.com/cami-la/loops-e-arrays.git
 
 ### 📖 Documento com o Passo a Passo 
 
-Esse é o documento solicitado na atividade, nele está os "prints" da realização dos comandos assim como a explicação da funcionalidade de cada um deles.
+Esse é o documento solicitado na atividade, nele está os "prints" da realização dos comandos.
 
 
