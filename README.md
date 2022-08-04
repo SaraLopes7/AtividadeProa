@@ -10,6 +10,7 @@ Esse arquivo é o que está aparecendo para você agora
 ### 📚 Repositório Clonado
 
 Esse é repositório da professora Camila Cavalcante sobre o assunto "Loops e Arrays" e ele está aqui puramente com o intuito de fazer a utilização do comando "Git Clone".
+https://github.com/cami-la/loops-e-arrays.git
 
 ### 📖 Documento com o Passo a Passo 
 
