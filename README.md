@@ -18,76 +18,92 @@ Esse é o documento solicitado na atividade, nele está os "prints" da realizaç
 
 ### Comandos:
 
-#### 💡 Git config
+### 💡 Git config
 
 📍 Setar usuário:
+
       ⌨️ git config --global user.name "SaraLopes"
+      
 📍 Setar email:
+
       ⌨️ git config --global user.email seuemail@gmail.com.br
 
-#### 💡 Git init
+### 💡 Git init
 
 📍Criar novo repositório:
+
       ⌨️ git init
 
-#### 💡 Git status
+### 💡 Git status
 
 📍Verificar estado dos arquivos/diretórios:
+
       ⌨️ git status
 
-#### 💡 Git clone
+### 💡 Git clone
 
 📍Clonar repositório que já existe:
+
       ⌨️ Git clone urldorepositório
 
-#### 💡 Git add
+### 💡 Git add
 
 📍Adicionar um arquivo em específico:
+
       ⌨️ git add nomedoArquivo.pdf
 
-#### 💡 Git commit
+### 💡 Git commit
 
 📍Comitar um arquivo:
+
       ⌨️ git commit nomedoArquivo.pdf
 
-#### 💡 Git rm
+### 💡 Git rm
 
 📍Remover arquivo:
+
       ⌨️ git rm nomedoArquivo.pdf
 
-#### 💡 Git log
+### 💡 Git log
 
 📍Exibir histórico:
+
       ⌨️ git log
 
-#### 💡 Git remote
+### 💡 Git remote
 
 📍Vincular repositório local com um repositório remoto:
+
       ⌨️ git remote add origin linkdoSeuPerfildoGitHub
 
-#### 💡 Git push
+### 💡 Git push
 
 📍O primeiro push de um repositório deve conter o nome do repositório remoto e o branch:
+
       ⌨️ git push -u origin master
 
-#### 💡 Git branch
+### 💡 Git branch
 
 📍Criando um novo branch:
+
       ⌨️ git branch nomedaBranch
 
-#### 💡 Git merge
+### 💡 Git merge
 
 📍Resolver merge entre os branches:
+
       ⌨️ git merge nomedaBranch
 
 
-#### 💡 Git pull
+### 💡 Git pull
 
 📍Buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais: 
+
       ⌨️ git pull origin master
 
-#### 💡 Git show
+### 💡 Git show
 
 📍Exibir informações dos repositórios remotos:
+
       ⌨️ git remote show origin
 
