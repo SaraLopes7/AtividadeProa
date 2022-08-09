@@ -20,90 +20,90 @@ Esse é o documento solicitado na atividade, nele está os "prints" da realizaç
 
 ### 💡 Git config
 
-📍 Setar usuário:
+ Setar usuário:
 
       ⌨️ git config --global user.name "SaraLopes"
       
-📍 Setar email:
+ Setar email:
 
       ⌨️ git config --global user.email seuemail@gmail.com.br
 
 ### 💡 Git init
 
-📍Criar novo repositório:
+Criar novo repositório:
 
       ⌨️ git init
 
 ### 💡 Git status
 
-📍Verificar estado dos arquivos/diretórios:
+Verificar estado dos arquivos/diretórios:
 
       ⌨️ git status
 
 ### 💡 Git clone
 
-📍Clonar repositório que já existe:
+Clonar repositório que já existe:
 
       ⌨️ Git clone urldorepositório
 
 ### 💡 Git add
 
-📍Adicionar um arquivo em específico:
+Adicionar um arquivo em específico:
 
       ⌨️ git add nomedoArquivo.pdf
 
 ### 💡 Git commit
 
-📍Comitar um arquivo:
+Comitar um arquivo:
 
       ⌨️ git commit nomedoArquivo.pdf
 
 ### 💡 Git rm
 
-📍Remover arquivo:
+Remover arquivo:
 
       ⌨️ git rm nomedoArquivo.pdf
 
 ### 💡 Git log
 
-📍Exibir histórico:
+Exibir histórico:
 
       ⌨️ git log
 
 ### 💡 Git remote
 
-📍Vincular repositório local com um repositório remoto:
+Vincular repositório local com um repositório remoto:
 
       ⌨️ git remote add origin linkdoSeuPerfildoGitHub
 
 ### 💡 Git push
 
-📍O primeiro push de um repositório deve conter o nome do repositório remoto e o branch:
+O primeiro push de um repositório deve conter o nome do repositório remoto e o branch:
 
       ⌨️ git push -u origin master
 
 ### 💡 Git branch
 
-📍Criando um novo branch:
+Criando um novo branch:
 
       ⌨️ git branch nomedaBranch
 
 ### 💡 Git merge
 
-📍Resolver merge entre os branches:
+Resolver merge entre os branches:
 
       ⌨️ git merge nomedaBranch
 
 
 ### 💡 Git pull
 
-📍Buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais: 
+Buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais: 
 
       ⌨️ git pull origin master
 
 ### 💡 Git show
 
-📍Exibir informações dos repositórios remotos:
+Exibir informações dos repositórios remotos:
 
       ⌨️ git remote show origin
 
