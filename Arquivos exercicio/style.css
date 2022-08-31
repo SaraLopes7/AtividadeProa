@@ -1,0 +1,88 @@
+@charset "utf-8";
+@font-face {
+    font-family: Neo_Sans;
+    src: url(Neo_Sans.ttf);
+}
+
+ /** {
+    margin: 0%;
+} 
+
+header {
+    position: fixed;
+    background-color: aliceblue;
+    width: 100%;
+    height: 110px;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+    tentando centralizar o titulo no header mas n funciona 
+}
+
+body {
+    background-color: 	#FFFFF0;
+} */
+
+header {
+
+}
+.caixa {
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+}
+
+.logoPrincipal {
+    width: 300px;
+}
+
+nav {
+    position: absolute;
+    top: 40px;
+    right: 0%;
+}
+
+nav li {
+    display: inline;
+    /* deixa os conteudos da lista um do lado do outro */
+    margin-left: 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #1C337f;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.conteudoPrincipal {
+    font-family: Neo_Sans;
+    display: inline-block;
+    vertical-align: top;
+    width: 35%;
+    margin: 5% 10%;
+}
+
+.conteudoPrincipal h1 {
+    color: 	#fdc617;
+    font-size: 32px;
+}
+
+.conteudoPrincipal h2 {
+    color: #1C337f;
+    font-size: 24px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.conteudoPrincipal p {
+    color: #1C3380;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.imagemCentro {
+    margin-top: 7%;
+}
+
