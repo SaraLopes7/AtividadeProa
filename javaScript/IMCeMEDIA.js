@@ -1,3 +1,6 @@
+
+// Sara Rayane Araujo Lopes
+
 alert("Hello Word")
 // comentario de uma linha 
 
@@ -93,31 +96,3 @@ if (nota < 5) {
 } else {
     console.log("média não aceita");
 }
-/* var Altura = Number(window.prompt('Altura'))
-var Peso = Number(window.prompt('Peso'))
-var media = Peso /(Altura * Altura) 
-
-
-
- if(media <= 15)
-
-{alert('MAGREZA')}
-
-else if (media > 15 && media <= 25)
-
-{alert('SAUDÁVEL')}
-
-else if (media > 25 && media <= 35)
-
-{alert('OBESIDADE DE GRAU 1')}
-
-else if (media > 35 && media <= 40)
-
-{alert('OBESIDADE DE GRAU 2')}
-
-else if(media > 40 && media <= 50)
-
-{alert('OBESIDADE DE GRAU 3')}
-
-else 
-{alert('OBESIDADE MÓRBIDA')} */
