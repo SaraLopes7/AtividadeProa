@@ -5,12 +5,18 @@ Essa atividade está composta pelos seguintes arquivos: ⤵️
 
 ### 📜 README. md 
 
-Esse arquivo é o que está aparecendo para você agora
+Esse arquivo é o que está aparecendo para você agora.
 
-### 📚 Repositório Clonado
+### 📚 Repositório Clonado (esse repositório foi apagado)
 
 Esse é repositório da professora Camila Cavalcante sobre o assunto "Loops e Arrays" e ele está aqui puramente com o intuito de fazer a utilização do comando "Git Clone".
 https://github.com/cami-la/loops-e-arrays.git
+
+### 🔁 Arquivos Exercícios - Contém um arquivo com um exercício proposto em sala tentando copiar o do proa (https://www.proa.org.br).
+
+### 🔁 Site - Sites desenvolvidos em aula com o professor Ivson.
+
+### 🔁 JavaScript - Exercícios propostos feitos em aula com o professor Bruno. 
 
 ### 📖 Documento com o Passo a Passo 
 
