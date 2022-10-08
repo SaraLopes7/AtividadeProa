@@ -1,0 +1,150 @@
+* {
+  margin: 0%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+/* -----------------------HEADER------------------------- */
+.header {
+  background-color: #bef202;
+  width: 100%;
+  height: 100px;
+  font-size: 30px;
+}
+
+.header li {
+  display: inline;
+  padding-left: 3%;
+  color: #519548;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.header ul {
+  padding-top: 2%;
+}
+/* ---------------------BODY----------------------------- */
+
+.body {
+  width: 100%;
+  height: 600px;
+  background-color: #eafde6;
+}
+
+/* --------------------HOME---------------------------- */
+.home {
+  padding: 1%;
+}
+
+.home img {
+  width: 600px;
+  padding-left: 30%;
+}
+
+.home h1 {
+  text-align: center;
+}
+
+.home p {
+  font-size: 18px;
+  text-align: justify;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+/* --------------------HISTORICO------------------------- */
+
+.historico {
+  text-align: center;
+  padding-top: 5%;
+}
+.historico li {
+  list-style: none;
+  padding: 0.5%;
+}
+
+/* --------------------HORARIO------------------------- */
+.horario h1 {
+  padding-left: 4%;
+  padding-bottom: 2%;
+}
+
+.horario table {
+  border: 3px solid #519548;
+  border-radius: 10px;
+  background-color: #e0ffc2;
+  width: 500px;
+}
+
+.horario {
+  padding-left: 33%;
+  padding-top: 10%;
+}
+
+.horario tr {
+  background-color: #d1ffc2;
+  border-radius: 10px;
+  height: 50px;
+}
+
+.horario td {
+  background-color: #c2ffc2;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+/* --------------------HORARIO------------------------- */
+
+.informacoes {
+  padding-top: 10%;
+}
+
+.informacoes h1 {
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.informacoes li {
+  text-transform: uppercase;
+  list-style: none;
+  padding-left: 45%;
+  padding-bottom: 1%;
+}
+/* --------------------TRABALHE------------------------- */
+
+.trabalhe {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.trabalhe h1 {
+  padding-bottom: 1%;
+}
+
+.trabalhe h2 {
+  padding-bottom: 1%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

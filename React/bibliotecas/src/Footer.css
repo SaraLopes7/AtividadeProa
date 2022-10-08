@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+* {
+    margin: 0%;
+}
+
+footer {
+    background: linear-gradient(90deg, rgba(0,36,33,1) 0%, rgba(9,121,24,1) 42%, rgba(0,255,72,1) 76%);
+    height: 150px;
+    max-width: 100%;
+    padding: 0 4%;
+}
+
+li {
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline;
+    padding-left: 5%;
+}
+
+ul {
+    padding: 4%;
+}
