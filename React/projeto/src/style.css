@@ -1,0 +1,164 @@
+.icones img {
+    width: 20px;
+}
+
+/* post inteiro */
+.feed {
+    background-color: aqua;
+    width: 67%;
+    margin-left: 18%;
+    margin-top: 3%;
+    border-radius: 45px;
+}
+
+/* imagem do post */
+.imgCentral img {
+    width: 53%;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+}
+
+/* informações do post */
+
+.superior ul {
+    margin-left: 50%;
+}
+
+.superior li {
+    list-style: none;
+    display: inline;
+    padding-left: 4%;
+    cursor: pointer;
+}
+
+.superior {
+    margin-top: -92%;    
+}
+
+.superior button {
+    width: 80px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-weight: bold;
+    float: right;
+    margin-right: 4%;
+    margin-top: -5.5%;
+    cursor: pointer;
+}
+
+/*---------------------------------------------------------------------------------------*/
+
+.link {
+    color: rgb(19, 19, 19);
+    margin-left: 54.5%;
+}
+
+.titulo {
+    margin-left: 54.5%;
+}
+
+.descricao {
+    margin-left: 54.5%;
+}
+
+.perfil {
+    margin-left: 54.5%;
+}
+
+.perfil img {
+    border-radius: 100%;
+    width: 10%;
+}
+
+.publicador {
+    font-weight: bold;
+    margin-left: 11%;
+    margin-top: -11%;
+}
+
+.seguidores {
+    margin-top: -4%;
+    margin-left: 11%;
+}
+
+.seguir {
+    width: 80px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    float: right;
+    margin-right: 8%;
+    margin-top: -12%;
+    cursor: pointer;
+}
+
+/*---------------------------------------------------------------------------------------*/
+
+.comentarios {
+    margin-top: 5%;
+    margin-left: 55%;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.fotoredonda1 {
+    margin-left: 55%;
+    border-radius: 100%;
+    width: 3.5%;
+}
+
+.usuario1 {
+    margin-left: 59%;
+    font-weight: bold;
+    margin-top: -3.5%;
+}
+
+.comentario1 {
+    margin-left: 71%;
+    margin-top: -3.7%;
+}
+
+.tempocoment1 {
+    margin-left: 59.5%;
+    margin-top: -1.5%;
+    color: gray;
+    font-size: 15px;
+}
+
+.responder1 {
+    margin-left: 63%;
+    margin-top: -3.5%;
+    color: gray;
+    cursor: pointer;
+}
+
+.favs1 {
+    margin-left: 75%;
+    margin-top: -5.7%;
+    color: gray;
+}
+
+.favsimg1 {
+    margin-left: 72.5%;
+    width: 16px;
+    cursor: pointer;
+}
+
+.icone1 {
+    margin-left: 75%;
+    margin-top: -55%;
+    width: 16px;
+    cursor: pointer;
+}
+
+.like1 {
+    margin-left: 91%;
+    margin-top: -5.5%;
+    color: gray;
+    cursor: pointer;
+}
