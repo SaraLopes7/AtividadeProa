@@ -1,0 +1,99 @@
+img {
+    width: 250px;
+    border-radius: 30px;
+    padding: 0.5%;
+}
+
+.imagensposts ul {    
+    flex-wrap: wrap;
+    display: flex;
+    margin-left: 15%;
+}
+
+
+.post1 {
+  margin-bottom: 15%;
+  cursor: pointer;
+}
+
+.post2 {
+    margin-bottom: 25%;
+    cursor: pointer;
+}
+
+.post3 {
+    margin-bottom: 8.5%;
+    cursor: pointer;
+}
+
+.post4 {
+    margin-bottom: 15%;
+    cursor: pointer;
+}
+
+.post5 {
+    margin-bottom: 24%;
+    cursor: pointer;
+}
+
+.post6 {
+    margin-top: -15%;
+    margin-bottom: 45%;
+    cursor: pointer;
+}
+
+.post7 {
+    margin-top: -25%;
+    margin-bottom: 55%;
+    cursor: pointer;
+}
+
+.post8 {
+    margin-top: -15%;
+    margin-bottom: 47.5%;
+    cursor: pointer;
+}
+
+.post9 {
+    margin-top: -15%;
+    margin-bottom: 49%;
+    cursor: pointer;
+}
+
+.post10 {
+    margin-top: -25%;
+    margin-bottom: 60%;
+    cursor: pointer;
+}
+
+.post11 {
+    margin-top: -45%;
+    margin-bottom: 82%;
+    cursor: pointer;
+}
+
+.post12 {
+    margin-top: -55%;
+    margin-bottom: 99%;
+    cursor: pointer;
+}
+
+.post13 {
+    margin-top: -48%;
+    margin-bottom: 84%;
+    cursor: pointer;
+}
+
+.post14 {
+    margin-top: -49%;
+    margin-bottom: 90%;
+    cursor: pointer;
+}
+
+.post15 {
+    margin-top: -61%;
+    margin-bottom: 96%;
+    cursor: pointer;
+}
+
+

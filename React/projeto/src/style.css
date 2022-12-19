@@ -4,11 +4,32 @@
 
 /* post inteiro */
 .feed {
-    background-color: aqua;
-    width: 67%;
+    /* width: calc((3 / 4) * 100%); */
+    /* width: 67%; */
     margin-left: 18%;
-    margin-top: 3%;
+    /* margin-top: -40%; */
     border-radius: 45px;
+    /* padding-top: calc((3 / 4) * 100%); */
+    position: relative;
+    /* width: 100px;
+    height: 50px; */
+    display: flex;
+    margin-top: 70%;
+}
+
+.infos {
+    /* margin-top: 27%; */
+    /* position: absolute;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: aqua;
+    float: right; */
+    position: absolute;
+    flex-direction: column;
+    display: block;
+    
 }
 
 /* imagem do post */
@@ -16,7 +37,9 @@
     width: 53%;
     border-top-left-radius: 45px;
     border-bottom-left-radius: 45px;
+    margin-top: -350%;
 }
+
 
 /* informações do post */
 
@@ -49,7 +72,7 @@
     cursor: pointer;
 }
 
-/*---------------------------------------------------------------------------------------*/
+/*------------------------INFOS DA IMAGEM--------------------------------------------------*/
 
 .link {
     color: rgb(19, 19, 19);
@@ -94,9 +117,10 @@
     margin-right: 8%;
     margin-top: -12%;
     cursor: pointer;
+    background-color: #dfdfdf;
 }
 
-/*---------------------------------------------------------------------------------------*/
+/*-------------------------COMENTARIO1------------------------------------------------*/
 
 .comentarios {
     margin-top: 5%;
@@ -107,6 +131,7 @@
 }
 
 .fotoredonda1 {
+    margin-top: 1%;
     margin-left: 55%;
     border-radius: 100%;
     width: 3.5%;
@@ -116,6 +141,7 @@
     margin-left: 59%;
     font-weight: bold;
     margin-top: -3.5%;
+    cursor: pointer;
 }
 
 .comentario1 {
@@ -138,27 +164,207 @@
 }
 
 .favs1 {
-    margin-left: 75%;
-    margin-top: -5.7%;
+    margin-left: 74.5%;
+    margin-top: -3.5%;
     color: gray;
 }
 
 .favsimg1 {
-    margin-left: 72.5%;
+    margin-top: -3%;
+    margin-right: 26%;
     width: 16px;
     cursor: pointer;
+    float: right;
 }
 
 .icone1 {
-    margin-left: 75%;
-    margin-top: -55%;
+    margin-right: 21.5%;
+    margin-top: -3%;
     width: 16px;
     cursor: pointer;
+    float: right;
 }
 
 .like1 {
     margin-left: 91%;
-    margin-top: -5.5%;
+    margin-top: -3.5%;
     color: gray;
     cursor: pointer;
+}
+
+/*-------------------------RESPOSTA1------------------------------------------------*/
+
+.respost1 {
+    margin-top: 1%;
+    margin-left: 60%;
+    border-radius: 100%;
+    width: 3.5%;
+}
+
+.userespot1 {
+    margin-left: 64%;
+    font-weight: bold;
+    margin-top: -3.5%;
+    cursor: pointer;
+}
+
+.resposta1 {
+    margin-left: 76%;
+    margin-top: -3.7%;
+}
+
+.tempocomentres {
+    margin-left: 64.5%;
+    margin-top: -1.5%;
+    color: gray;
+    font-size: 15px;
+}
+
+.responderes {
+    margin-left: 68%;
+    margin-top: -3.5%;
+    color: gray;
+    cursor: pointer;
+}
+
+.favsimgres1 {
+    margin-top: -3%;
+    margin-right: 21%;
+    width: 16px;
+    cursor: pointer;
+    float: right;
+}
+
+.favsres1 {
+    margin-left: 79.5%;
+    margin-top: -3.5%;
+    color: gray;
+} 
+
+.iconeres {
+    margin-right: 16.5%;
+    margin-top: -3%;
+    width: 16px;
+    cursor: pointer;
+    float: right;
+}
+
+.likeres {
+    margin-left: 91%;
+    margin-top: -3.5%;
+    color: gray;
+    cursor: pointer;
+}
+
+/*-------------------------COMENTARIO2------------------------------------------------*/
+
+.fotoredonda2 {
+    margin-top: 1%;
+    margin-left: 55%;
+    border-radius: 100%;
+    width: 3.5%;
+}
+
+.usuario2 {
+    margin-left: 59%;
+    font-weight: bold;
+    margin-top: -3.5%;
+    cursor: pointer;
+}
+
+.comentario2 {
+    margin-left: 73%;
+    margin-top: -3.7%;
+}
+
+.tempocoment2 {
+    margin-left: 60.5%;
+    margin-top: -1.5%;
+    color: gray;
+    font-size: 15px;
+}
+
+.responder2 {
+    margin-left: 65%;
+    margin-top: -3.5%;
+    color: gray;
+    cursor: pointer;
+}
+
+.favs2 {
+    margin-left: 76.5%;
+    margin-top: -3.5%;
+    color: gray;
+}
+
+.favsimg2 {
+    margin-top: -3%;
+    margin-right: 24%;
+    width: 16px;
+    cursor: pointer;
+    float: right;
+}
+
+.icone2 {
+    margin-right: 19.5%;
+    margin-top: -3%;
+    width: 16px;
+    cursor: pointer;
+    float: right;
+}
+
+.like2 {
+    margin-left: 91%;
+    margin-top: -3.5%;
+    color: gray;
+    cursor: pointer;
+}
+
+/*-------------------------FINAL------------------------------------------------*/
+
+.vermais {
+    width: 80px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    float: left;
+    margin-left: 55%;
+    margin-top: 1%;
+    cursor: pointer;
+    background-color: #dfdfdf;
+}
+
+.fotoredonda3 {
+    border-radius: 100%;
+    width: 5%;
+    margin-top: 14.5%;
+    margin-left: -41%;
+}
+
+.comentar {
+    border-radius: 25px;
+    border: 1px solid #dfdfdf;
+    width: 35%;
+    height: 40px;
+    margin-left: -3%;
+    margin-top: 15%;
+    float: left;
+    font-size: 16px;
+}
+
+.perfilComentar {
+    float: right;
+}
+
+@media only screen and (min-width: 769px) {
+    div.feed {width: 70%;}
+    div.infos {width: 100%;}
+    /* div.feed { font-size: calc( 12px + (18 - 20) * (100vw - 400px) / (800 - 400) );} */
+    /* .feed {width: calc((3 / 4) * 100%); } */
+}
+
+@media screen and (max-width: 500px) {
+    .imgCentral{width: 70%;}
+    .infos{width: 70%;}
 }

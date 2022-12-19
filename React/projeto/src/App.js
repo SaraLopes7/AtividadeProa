@@ -21,14 +21,14 @@ function App() {
       favoritos1='1'
       respost1='https://i.pinimg.com/75x75_RS/15/d8/cf/15d8cf82d8725fd3b13ceea4eaa890bc.jpg'
       useresposta1='Ashireiko_emo '
-      resposta1='Acho que você quis dizer "Melhor casa"'
+      resposta1='Você quis dizer "Melhor casa"'
       tempocomentres='3y'
       favoritosres1='4'
       coment2='https://i.pinimg.com/75x75_RS/21/ee/38/21ee386da240a706cb2cb960e310df81.jpg'
-      usuario2='eduardopotter24'
+      usuario2='Eduardopotter24'
       comentario2='Verdade'
       tempocoment2='5 mo'
-      favoritos2=''
+      favoritos2='0'
       />
     </div>
   );
